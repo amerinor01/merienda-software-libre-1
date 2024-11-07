@@ -37,6 +37,7 @@
           installPhase = ''
             mkdir -p $out
             cp slices.html $out/
+            cp -r imgs $out/
           '';
         };
     };
