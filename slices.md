@@ -3,6 +3,7 @@ marp: true
 theme: rose-pine
 paginate: true
 class: lead
+html: true
 ---
 
 # Conociendo el potencial de la comunidad
@@ -11,22 +12,10 @@ class: lead
 
 ## Whoami
 
-<div style="display: flex; align-items: center;">
+| ![Tu Imagen](ruta-a-tu-imagen.png) | <div align="left">**Alberto Merino** <br> 🔹 Apasionado del software libre <br> 🔹 Estudiante de la Universidad de Castilla La Mancha <br> 🔹 Nix Advocate</div> |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<div style="width: 40%; text-align: center;">
-  <!-- Sustituye la URL por la ruta de tu imagen -->
-  <img src="tu-imagen.png" width="200" style="border-radius: 50%;" />
-</div>
-
-<div style="width: 60%; padding-left: 20px;">
-  <p>👤 **Alberto Merino**</p>
-  <p>🔹 Apasionado del software libre y la tecnología</p>
-  <p>🔹 Experiencia en desarrollo de redes de alta interconexión</p>
-  <p>🔹 Participante en Summer of Nix 2024</p>
-  <p>🔹 Doctorando en la Universidad de Castilla-La Mancha</p>
-</div>
-
-## </div>
+---
 
 ## ¿Qué es el Software Libre?
 
