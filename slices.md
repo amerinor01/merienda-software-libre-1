@@ -12,8 +12,9 @@ html: true
 
 ## Whoami
 
-| ![Tu Imagen](ruta-a-tu-imagen.png) | <div align="left">**Alberto Merino** <br> 🔹 Apasionado del software libre <br> 🔹 Estudiante de la Universidad de Castilla La Mancha <br> 🔹 Nix Advocate</div> |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+🔹 Apasionado del software libre <br>
+🔹 Estudiante de la Universidad de Castilla La Mancha <br>
+🔹 Nix Advocate
 
 ---
 
