@@ -16,7 +16,7 @@ This repository contains everything needed to create the presentation using Marp
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
 2. Install the [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) extension
-3. Open any `.md` file from the `presentations/` directory
+3. Open any `.md` file
 4. Click the "Open Preview to the Side" button or use `Ctrl+K V`
 
 ### Using Nix Flakes (Alternative)
