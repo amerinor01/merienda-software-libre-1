@@ -23,7 +23,6 @@ img[alt~="center"] {
 ---
 
 ## Whoami
-test
 🔹 Apasionado del software libre
 🔹 Estudiante de la Universidad de Castilla-La Mancha
 🔹 Nix Advocate
