@@ -15,6 +15,10 @@ img[alt~="center"] {
 <!-- _class: lead -->
 
 # Conociendo el potencial de la comunidad
+8/11/2024
+![bg vertical right 30%](imgs/qr.png)
+![bg](imgs/q.png)
+![bg](imgs/aesl.png)
 
 ---
 
@@ -197,6 +201,10 @@ Hoy en día, el **software libre** es la base de muchos sistemas, desde servidor
 
 ---
 
-# ¡Gracias!
+# Conociendo el potencial de la comunidad
+8/11/2024
+![bg vertical right 30%](imgs/qr.png)
+![bg](imgs/q.png)
+![bg](imgs/aesl.png)
 
-¿Preguntas?
+
